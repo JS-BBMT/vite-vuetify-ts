@@ -7,11 +7,9 @@
   "type": "module",
   "private": true,
   "author": {
-    "name": "Logue",
-    "email": "logue@hotmail.co.jp",
-    "url": "https://logue.dev/"
+    "name": "Toni",
+    "email": "richcool.6799@gmail.com"
   },
-  "homepage": "https://github.com/logue/vite-vuetify-ts-starter",
   "repository": {
     "type": "git",
     "url": "git@github.com:logue/vite-vuetify-ts-starter.git"
